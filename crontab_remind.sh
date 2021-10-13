@@ -1,0 +1,1 @@
+/usr/bin/php /Users/yashkhaitan/Desktop/PocketPlan_2020/PocketPlan_Daily_Task_Bot/crontab_remind.php
